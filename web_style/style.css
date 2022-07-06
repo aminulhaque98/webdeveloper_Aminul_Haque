@@ -2,10 +2,10 @@ body {
     font-family: 'Poppins', sans-serif;
 }
 
-* {
+/* * {
     margin: 0;
     padding: 0;
-}
+} */
 
 .flexible-containar {
     display: flex;
@@ -29,15 +29,15 @@ h1 {
     font-family: 'Times New Roman', Times, serif;
 }
 
-#button-center {
-    /* display: flex; */
+/* #button-center {
+    /* display: flex; 
     justify-content: center;
     align-items: center;
     height: 40px;
     width: 50;
     border: 3px solid green;
     padding-left: 50px;
-}
+ }  */
 
 #sizer {
     font-size: 1em;
@@ -45,7 +45,7 @@ h1 {
     padding-right: 20px;
     /* padding-block-end: 0%; */
     text-align: center;
-    color: rebeccapurple;
+    color: rgb(80, 255, 10);
 }
 
 .block {
