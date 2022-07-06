@@ -11,7 +11,7 @@ body {
     display: flex;
     width: 50%;
     margin: 0 auto;
-    padding-top: 12em;
+    padding-top: 10em;
 }
 
 /* section {
@@ -19,6 +19,7 @@ body {
 } */
 button {
     text-align: center;
+    padding-left: 30px;
 }
 
 h1 {
@@ -35,6 +36,7 @@ h1 {
     height: 40px;
     width: 50;
     border: 3px solid green;
+    padding-left: 50px;
 }
 
 #sizer {
@@ -44,5 +46,20 @@ h1 {
     /* padding-block-end: 0%; */
     text-align: center;
     color: rebeccapurple;
+}
 
+.block {
+    display: block;
+    width: 160px;
+    height: 55px;
+    padding: 0;
+    color: aliceblue;
+}
+
+.margin-auto {
+    margin: 0 auto;
+    background-color: orangered;
+    font-size: x-large;
+    size: 50px;
+    border-radius: 10px;
 }
