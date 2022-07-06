@@ -1,0 +1,22 @@
+body {
+    font-family: 'Poppins', sans-serif;
+}
+
+* {
+    margin: 0;
+    padding: 0;
+}
+
+.flexible-containar {
+    display: flex;
+    width: 50%;
+    margin: 0 auto;
+    padding-top: 12em;
+}
+
+/* section {
+    background-image: url("./images/donation0.jpg");
+} */
+button {
+    text-align: center;
+}
