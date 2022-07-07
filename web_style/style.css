@@ -215,7 +215,7 @@ button {
     background-color: brown;
     color: white;
     font-weight: 700;
-    font-size: 30px;
+    font-size: 20px;
     padding: 20px 40px;
     /* border-radius: 10px; */
 
@@ -279,7 +279,7 @@ footer {
     margin: 20px;
     height: 35px;
     width: 150px;
-    font-size: 20px;
+    font-size: 15px;
     padding: right;
     border: 3px solid rebeccapurple;
 }
