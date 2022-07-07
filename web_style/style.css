@@ -11,7 +11,8 @@ body {
     display: flex;
     width: 50%;
     margin: 0 auto;
-    padding-top: 10em;
+    padding-top: 8em;
+    padding-bottom: 3em;
 }
 
 #display {
@@ -89,12 +90,24 @@ button {
 
 .flex-containar {
     display: flex;
-    background-color: DodgerBlue;
+    max-width: 1200px;
+    margin: 0 auto;
+    border: 2px solid white;
+    gap: 10px;
+    font-size: 40px;
+    font-weight: 700;
+
 }
 
-.flex-container>div {
-    background-color: #f1f1f1;
-    margin: 10px;
-    padding: 20px;
-    font-size: 30px;
+.flex-itam {
+    background-color: wheat;
+    padding: 2rem;
+    flex: 20%;
+    text-align: center;
+
+}
+
+.border {
+    border: 10px solid rebeccapurple;
+    background-color: darkcyan;
 }
