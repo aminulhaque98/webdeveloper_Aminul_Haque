@@ -167,9 +167,11 @@ button {
 }
 
 .bottom {
-    padding-top: 250px;
+    padding-top: 200px;
     text-align: center;
     font-weight: 700;
+    padding-left: 5px;
+    padding-right: 5px;
 }
 
 .second-icon {
@@ -183,7 +185,6 @@ button {
     height: 400px;
     background-color: rgba(174, 226, 209, 0.562);
     border-radius: 20px;
-
 
 }
 
