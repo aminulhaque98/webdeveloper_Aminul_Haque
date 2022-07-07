@@ -184,7 +184,9 @@ button {
 
 }
 
-.photo {}
+/* .photo {
+    border-radius: 30px;
+} */
 
 .font-edit {
     box-shadow: 10px 5px 5px 3px grey;
@@ -203,5 +205,34 @@ button {
     font-size: 30px;
     padding: 20px 40px;
     border-radius: 10px;
+
+}
+
+.final-containar {
+    display: flex;
+    width: 50%;
+    margin: 0 auto;
+    text-align: center;
+}
+
+#nihad {
+    font-size: 50px;
+}
+
+#mail {
+    background-color: rgb(236, 217, 191);
+    height: 200px;
+}
+
+#email {
+    border: 2px solid red;
+    border-radius: 4px;
+    margin-block: 7em;
+}
+
+footer {
+    text-align: center;
+    background-color: black;
+    color: aliceblue;
 
 }
