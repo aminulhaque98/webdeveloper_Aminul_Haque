@@ -88,6 +88,11 @@ button {
     font-size: 20px;
 }
 
+#font-sizing {
+    font-size: 40px;
+    font-weight: 700;
+}
+
 .flex-containar {
     display: flex;
     max-width: 1200px;
@@ -110,4 +115,21 @@ button {
 .border {
     border: 10px solid rebeccapurple;
     background-color: darkcyan;
+}
+
+#send-money {
+    text-align: center;
+    padding-top: 20px;
+}
+
+.taka {
+    display: flex;
+    margin: 0 auto;
+    text-align: center;
+    border-top: 0;
+    border-left: 0;
+    border-right: 0;
+    border-bottom: 1px solid grey;
+
+
 }
