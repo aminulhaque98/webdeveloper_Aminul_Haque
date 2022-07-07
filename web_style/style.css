@@ -172,4 +172,36 @@ button {
     background-color: aquamarine;
     border-radius: 20px;
 
+
+}
+
+.image-containar {
+    display: flex;
+    width: 80%;
+    margin: 0 auto;
+    padding-top: 5em;
+    gap: 40px;
+
+}
+
+.photo {}
+
+.font-edit {
+    box-shadow: 10px 5px 5px 3px grey;
+    text-align: center;
+    padding-left: 5px;
+    padding-right: 5px;
+    font-family: 'Times New Roman', Times, serif;
+    font-size: 20px;
+}
+
+#link {
+    text-decoration: none;
+    background-color: brown;
+    color: white;
+    font-weight: 700;
+    font-size: 30px;
+    padding: 20px 40px;
+    border-radius: 10px;
+
 }
