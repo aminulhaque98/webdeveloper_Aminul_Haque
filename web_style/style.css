@@ -1,3 +1,7 @@
+* {
+    margin: 0;
+}
+
 body {
     font-family: 'Poppins', sans-serif;
 }
@@ -16,7 +20,8 @@ body {
 }
 
 #display {
-    background-color: blueviolet;
+    /* background-color: blueviolet; */
+
 }
 
 /* section {
@@ -150,26 +155,34 @@ button {
 
 
 
+
 }
 
 .first-icon {
 
     height: 400px;
-    background-color: crimson;
+    background-color: rgba(137, 138, 106, 0.596);
     box-shadow: 10px salmon;
     padding-right: 2;
     border-radius: 20px;
 }
 
+.bottom {
+    padding-top: 250px;
+    text-align: center;
+    font-weight: 700;
+}
+
 .second-icon {
     height: 400px;
-    background-color: blueviolet;
+    background-color: rgba(178, 141, 182, 0.842);
     border-radius: 20px;
+    padding-bottom: 0;
 }
 
 .threed-icon {
     height: 400px;
-    background-color: aquamarine;
+    background-color: rgba(174, 226, 209, 0.562);
     border-radius: 20px;
 
 
@@ -204,7 +217,7 @@ button {
     font-weight: 700;
     font-size: 30px;
     padding: 20px 40px;
-    border-radius: 10px;
+    /* border-radius: 10px; */
 
 }
 
@@ -221,18 +234,20 @@ button {
 
 #mail {
     background-color: rgb(236, 217, 191);
-    height: 200px;
+    height: 150px;
 }
 
 #email {
     border: 2px solid red;
     border-radius: 4px;
-    margin-block: 7em;
+    margin-block: 5em;
+
 }
 
 footer {
     text-align: center;
     background-color: black;
     color: aliceblue;
-
+    height: 150px;
+    padding-top: 3em;
 }
